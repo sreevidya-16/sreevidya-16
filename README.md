@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sree Vidya</h1>
 <h3 align="center">Computer Science Student 🎓👩🏻‍🎓 | Always eager to learn and take on new challenges in the tech world 🌐</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreevidya-16&label=Profile%20views&color=0e75b6&style=flat" alt="sreevidya-16" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreevidya-16" alt="sreevidya-16" /></a> </p>
+
 
 - 🔭 I’m currently working on **Text to SQL Query Generation**
 
@@ -16,6 +17,9 @@
 - 📫 How to reach me **sreevidyapatamsetti@gmail.com 📩**
 
 - 📄 Know about my experiences  [https://drive.google.com/file/d/1LM7BKXuJbVYyCVpM6KrBsip5NFjsQ062/view?usp=sharing](https://drive.google.com/file/d/1LM7BKXuJbVYyCVpM6KrBsip5NFjsQ062/view?usp=sharing)
+  
+
+- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreevidya-16" alt="sreevidya-16" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
