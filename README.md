@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Ml Projects**
+- 🔭 I’m currently working on **ML Projects**
 
 - 🌱 I’m currently learning **DSA, ML 🤖**
 
