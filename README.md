@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sree Vidya</h1>
-<h3 align="center">Computer Science Student 🎓👩🏻‍🎓 | Always eager to learn and take on new challenges in the tech world 🌐</h3>
+<h3 align="center">Computer Science Student 🎓👩🏻‍🎓 | CyberSecurity 🌐</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreevidya-16&label=Profile%20views&color=0e75b6&style=flat" alt="sreevidya-16" /> </p>
@@ -12,11 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning || Deep Learning Projects**
 
-- 💬 Ask me about **DSA**
-
-- 📫 How to reach me **sreevidyapatamsetti@gmail.com 📩**
-
-- 📄 Know about my experiences  [https://drive.google.com/file/d/1LM7BKXuJbVYyCVpM6KrBsip5NFjsQ062/view?usp=sharing](https://drive.google.com/file/d/1LM7BKXuJbVYyCVpM6KrBsip5NFjsQ062/view?usp=sharing)
+- 💬 Ask me about **DSA**, **CyberSecurity**
   
 
 - <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreevidya-16" alt="sreevidya-16" /></a> </p>
