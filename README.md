@@ -6,11 +6,11 @@
 
 
 
-- 🔭 I’m currently working on **ML Projects**
+- 🔭 I’m currently working at **Micron Technology, India.**
 
-- 🌱 I’m currently learning **DSA, ML 🤖**
+- 🌱 My SKillset: **DSA, ML, AI, CyberSecurity, GRC**
 
-- 👯 I’m looking to collaborate on **Machine Learning || Deep Learning Projects**
+- 👯 I’m looking to collaborate on **Projects** and explore new things.
 
 - 💬 Ask me about **DSA**, **CyberSecurity**
   
