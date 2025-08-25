@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sree Vidya</h1>
-<h3 align="center">Computer Science Student 🎓👩🏻‍🎓 | CyberSecurity 🌐</h3>
+<h3 align="center">Computer Science Student 🎓👩🏻‍🎓 | Cyber Security 🌐</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreevidya-16&label=Profile%20views&color=0e75b6&style=flat" alt="sreevidya-16" /> </p>
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at **Micron Technology, India.**
 
-- 🌱 My SKillset: **DSA, ML, AI, CyberSecurity, GRC**
+- 🌱 My SKillset: **DSA, ML, AI, Cyber Security, GRC**
 
 - 👯 I’m looking to collaborate on **Projects** and explore new things.
 
